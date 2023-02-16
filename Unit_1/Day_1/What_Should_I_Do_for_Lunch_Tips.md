@@ -4,7 +4,7 @@ Try experimenting with the comparison operators (`<`, `>`, `===`, etc.) in the n
 
 Work on your code iteratively – that means in small pieces. 
 
-To help you figure out how to use `hungry` and `availableTime` inside your function, try outputting their values to the Terminal as follows.
+Example: Write a Python code to determin a number is positive, negativ, or zero.
 
 ```python
 x=10
@@ -13,6 +13,6 @@ if x>0:
 elif x<0:
     print('Negative')
 else:
-     print('Zer')
+     print('Zero')
 
 ```
